@@ -58,7 +58,7 @@ To view the project, follow these steps:
    - In the dropdown menu of the draw function, click "Train" to access the face modification tool. Here, you can adjust parameters of the generated Kodama face to match the characteristics of a displayed image of a person. Save these values by clicking the appropriate buttons.
    - Use the arrows in to cycle through different images and repeat the modification process as desired.
    - Once sufficient values are saved, click "Get All Values" to copy them into the file "training_values.JSON".
-   -**Testing and Validation:**
+   - **Testing and Validation:**
      - Within the draw function dropdown, options like "Training Quiz", "Interpolation Quiz", and "Nearest Neighbor" allow you to validate and test the algorithm's performance.
      - These options enable you to select the most suitable generated Kodama face for a given image and compare it against the algorithm's selection. Use numerical keys (1 to 4) to select images.
 
